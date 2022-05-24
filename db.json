@@ -1,0 +1,12 @@
+{
+  "studentInfo": [
+    {
+      "studentName": "hardik",
+      "age": "21",
+      "FatherName": "Mukeshbhai ",
+      "MotherName": "Parulben",
+      "gender": "male",
+      "id": 2
+    }
+  ]
+}
